@@ -5,6 +5,7 @@
 - [X] Coletânea Front-End - Uma Antologia da Comunidade Front End Brasileira - Casa do Codigo (ebook)
 - [X] HTML5 e CSS3 - Casa do Código (ebook)
 - [X] HTML5 - Curso W3C Escritório Brasil
+- [X] Guia Front-end: O caminho das pedras para ser um dev Front-end
 
 ## Empreendedorismo e Startup
 
