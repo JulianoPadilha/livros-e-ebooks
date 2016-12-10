@@ -6,6 +6,7 @@
 - [X] HTML5 e CSS3 - Casa do Código (ebook)
 - [X] HTML5 - Curso W3C Escritório Brasil
 - [X] Guia Front-end: O caminho das pedras para ser um dev Front-end
+- [X] Web Design Responsivo - Pá́ginas adaptáveis para todos os dispositivos - Casa do Codigo (ebook)
 
 ## Empreendedorismo e Startup
 
