@@ -7,6 +7,7 @@
 - [X] HTML5 - Curso W3C Escritório Brasil
 - [X] Guia Front-end: O caminho das pedras para ser um dev Front-end
 - [X] Web Design Responsivo - Pá́ginas adaptáveis para todos os dispositivos - Casa do Codigo (ebook)
+- [ ] JavaScript: The Definitive Guide, 6th Edition - O`Reilly
 
 ## Empreendedorismo e Startup
 
@@ -39,8 +40,10 @@
 ## Literatura
 
 - [X] Clube da Luta - Chuck Palahniuk
+- [X] Clube da Luta 2 - Chuck Palahniuk
 - [X] Sobrevivente - Chuck Palahniuk
 - [X] Condenada - Chuck Palahniuk
+- [ ] Assombro - Chuck Palahniuk
 
 ## Outros
 
